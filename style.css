@@ -1,0 +1,52 @@
+
+span.list {
+	padding-top: 40px;
+	display: inline-block;
+}
+
+#next {
+	padding-bottom: 15px;
+}
+
+body {
+	
+	border: dashed 1px white;
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	background-color: #2F4F4F;
+	color: white;
+	text-align: center;
+	margin: 100px 200px;
+}
+
+img {
+	display: inline-block;
+	border: solid white 1px;
+	text-align: center;
+}
+
+h1 {
+	color: white;
+	border-bottom: solid 10px black;
+	font-size: 70px;
+}
+
+p {
+	font-style: italic;
+	border-bottom: solid 5px black;
+}
+
+div.links {
+	color: blue;
+	margin-top: 20px;
+}
+
+a {
+	color: blue;
+	font-size: 20px;
+	padding: 0 10px 0 10px;	
+}
+
+
+	{
+	border-bottom: solid 10px black}
